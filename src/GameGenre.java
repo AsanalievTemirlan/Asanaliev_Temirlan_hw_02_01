@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public enum GameGenre {
+public enum GameGenre {
+    ACTION, RPG, STRATEGY
 }
